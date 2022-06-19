@@ -112,6 +112,11 @@ a:visited {
 .bg-green {
   background: #e5ffe7;
 }
+
+.bg-red{
+  background: #ffe5e5;
+}
+
 .card {
   padding: 15px 20px;
   margin-bottom: 20px;
